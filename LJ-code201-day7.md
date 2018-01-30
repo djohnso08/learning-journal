@@ -1,4 +1,4 @@
-# LJ Code 201 - Day 5
+# LJ Code 201 - Day 7
 
 Today we started off with a modified code review which is always a learning experience when going over any type of code.
 
